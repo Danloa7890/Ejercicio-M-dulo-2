@@ -16,7 +16,7 @@ article h1 {
 	margin: 1rem 1rem 0rem 1rem;
 	text-transform: uppercase;
 }
-/* MAIN */
+
 #main {
 	display:grid;
 	grid-gap: 1rem;
@@ -84,7 +84,6 @@ nav a {
 nav a:hover {
 	background-color:#4fc3f7; }
 
-/* ASIDE */
 
 aside {
 	display:grid;
