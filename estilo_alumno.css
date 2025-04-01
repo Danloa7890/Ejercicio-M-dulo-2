@@ -45,7 +45,7 @@ footer {
     padding: 10px;
 }
 
-/* Media Queries */
+
 @media (max-width: 768px) {
     section {
         grid-template-columns: 1fr;
